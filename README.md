@@ -311,4 +311,12 @@ Delete a task.
 
 ---
 
-*Built for internship submission - B.Tech IT Final Year*
+Demo video showcasing working of API perfoming task -
+* User registration and login.
+* Creating, viewing, updating, and deleting tasks for an authenticated user.
+* Attempting to access/modify a task belonging to another user (should fail).
+* Demonstration of data validation and error handling.
+
+https://github.com/user-attachments/assets/3e3c0fdc-bda3-41e9-ba05-060fb4bb60eb
+
+
